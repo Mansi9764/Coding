@@ -1,10 +1,10 @@
 Must do Data Structrues and Algorithms - Interview Coding Problems
 This repository is a collection of my solutions to the leetcode problems like in [geeksforgeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
-Arrays
-Subarray with given sum
-Count the triplets
-Kadane’s Algorithm
-Missing number in array
+# Arrays
+## Subarray with given sum
+## Count the triplets
+## Kadane’s Algorithm
+## Missing number in array
 Merge two sorted arrays
 Rearrange array alternatively
 Number of pairs
